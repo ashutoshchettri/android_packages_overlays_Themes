@@ -437,3 +437,20 @@ PRODUCT_PACKAGES += \
     QSReflected \
     QSSurround \
     QSThin
+    
+# Data icons
+PRODUCT_PACKAGES += \
+    AuroraDataOverlay \
+    FaintUIDataOverlay \
+    GradiconDataOverlay \
+    LornDataOverlay \
+    PlumpyDataOverlay
+    
+# Icon Data
+PRODUCT_PACKAGES += \
+    IconDataDefault \
+    IconDataFive \
+    IconDataFour \
+    IconDataOne \
+    IconDataThree \
+    IconDataTwo
