@@ -439,6 +439,11 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin
     
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay
+    
 # Data icons
 PRODUCT_PACKAGES += \
     AuroraDataOverlay \
