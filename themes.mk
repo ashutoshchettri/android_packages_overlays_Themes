@@ -474,3 +474,11 @@ PRODUCT_PACKAGES += \
     IconDataOne \
     IconDataThree \
     IconDataTwo
+
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeStyle1Overlay \
+    VolumeStyle2Overlay \
+    VolumeStyle3Overlay \
+    VolumeStyle4Overlay \
+    VolumeStyle5Overlay
